@@ -1,7 +1,7 @@
 folder-gallery
 ==============
 
-A simple Bootstrap-styled gallery
+A simple Bootstrap-styled gallery. Licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 How Does It Work
 ================
