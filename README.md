@@ -11,7 +11,7 @@ In the same folder as folder-gallery.php, create a folder called "gallery". In t
 Download and Example
 ====================
 
-The code and an example can be found on the project's GitHub page
+The code and an example can be found in folder-gallery.php
 
 Known Issues
 ============
