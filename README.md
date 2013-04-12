@@ -17,3 +17,8 @@ Known Issues
 ============
 
 Images with spaces in their names will break this script. I'm going to look into it. It seems PHP's urlencode() and rawurlencode() are not what I need to use to encode image path's because they encode the slashes too. I should probably just use str_replace to remove the paths, then rebuild the image paths.
+
+Credits/Thanks
+==============
+
+[Design Packs](http://designpacks.com/), *for the test gallery images*.
